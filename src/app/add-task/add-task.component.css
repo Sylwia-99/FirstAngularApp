@@ -1,0 +1,15 @@
+input{
+  background-color: blueviolet;
+  border: none;
+  border-radius:1em 0 0 1em;
+  color: #c8ff00;
+  height: 5vh;
+}
+
+button{
+  background-color: blueviolet;
+  border: none;
+  border-radius: 0 1em 1em 0;
+  color: #c8ff00;
+  height: 5.3vh;
+}

@@ -1,0 +1,30 @@
+.tasks{
+  display: flex;
+  flex-direction: column;
+}
+
+h1{
+  align-self: center;
+}
+
+p, h1{
+  color: #c8ff00;
+}
+
+button{
+  background-color: blueviolet;
+  border: none;
+  border-radius: 0 1em 1em 0;
+  color: #c8ff00;
+  height: 5.3vh;
+}
+
+.container{
+  display: flex;
+  justify-content: space-around;
+}
+
+li{
+  color: aquamarine;
+  margin: 1em;
+}
